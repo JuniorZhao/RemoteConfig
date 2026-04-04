@@ -8,47 +8,51 @@
     },
     {
       "title": "Gather",
-      "urlString": "https://gitee.com/ZXLMaster/config/blob/master/Hunan2.m3u8"
+      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/gather.m3u8"
     },
     {
       "title": "咪咕",
-      "urlString": "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Migu.m3u"
+      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/migu.m3u8"
     },
     {
       "title": "国际",
-      "urlString": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u"
+      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/国际.m3u8"
     },
     {
-      "title": "adult",
-      "urlString": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u"
+      "title": "adult1",
+      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/adult1.m3u8"
+    },
+    {
+      "title": "adult2",
+      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/adult2.m3u8"
     },
     {
       "title": "cutv",
-      "urlString": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/CUTV.txt"
+      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/cutv.m3u8"
     },
     {
       "title": "gntv",
-      "urlString": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u"
+      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/gntv.m3u8"
     },
     {
       "title": "Hunan1",
-      "urlString": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Hunan.m3u"
+      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/hunan1.m3u8"
     },
     {
       "title": "Hunan2",
-      "urlString": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Hunan.txt"
+      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/hunan2.m3u8"
     },
     {
       "title": "iptv",
-      "urlString": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u"
+      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/iptv.m3u8"
     },
     {
       "title": "radio",
-      "urlString": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u"
+      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/radio.m3u8"
     },
     {
       "title": "fanmingming",
-      "urlString": "https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/radio/m3u/fm.m3u"
+      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/fmm.m3u8"
     }
   ]
 }
