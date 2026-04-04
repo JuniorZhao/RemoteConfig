@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "updatedAt": "2026-03-31",
+  "items": [
+    {
+      "title": "全球",
+      "urlString": "https://gitee.com/ZXLMaster/config/blob/master/global.m3u8"
+    },
+    {
+      "title": "Gather",
+      "urlString": "https://gitee.com/ZXLMaster/config/blob/master/Hunan2.m3u8"
+    },
+    {
+      "title": "咪咕",
+      "urlString": "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Migu.m3u"
+    },
+    {
+      "title": "国际",
+      "urlString": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u"
+    },
+    {
+      "title": "adult",
+      "urlString": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u"
+    },
+    {
+      "title": "cutv",
+      "urlString": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/CUTV.txt"
+    },
+    {
+      "title": "gntv",
+      "urlString": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u"
+    },
+    {
+      "title": "Hunan1",
+      "urlString": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Hunan.m3u"
+    },
+    {
+      "title": "Hunan2",
+      "urlString": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Hunan.txt"
+    },
+    {
+      "title": "iptv",
+      "urlString": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u"
+    },
+    {
+      "title": "radio",
+      "urlString": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u"
+    },
+    {
+      "title": "fanmingming",
+      "urlString": "https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/radio/m3u/fm.m3u"
+    }
+  ]
+}
