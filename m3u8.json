@@ -7,11 +7,15 @@
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/fmm.m3u8"
     },
     {
+      "title": "电视大全2",
+      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/iptv.m3u8"
+    },
+    {
       "title": "全球",
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/global.m3u8"
     },
     {
-      "title": "Gather",
+      "title": "网络直播",
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/gather.m3u8"
     },
     {
@@ -22,6 +26,10 @@
       "title": "国际",
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/国际.m3u8"
     },
+    {
+      "title": "音乐之声",
+      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/radio.m3u8"
+    }
     {
       "title": "18禁",
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/adult1.m3u8",
@@ -47,14 +55,6 @@
     {
       "title": "Hunan2",
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/hunan2.m3u8"
-    },
-    {
-      "title": "iptv",
-      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/iptv.m3u8"
-    },
-    {
-      "title": "radio",
-      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/radio.m3u8"
     }
   ]
 }
