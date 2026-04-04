@@ -3,6 +3,10 @@
   "updatedAt": "2026-04-04",
   "items": [
     {
+      "title": "电视大全",
+      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/fmm.m3u8"
+    },
+    {
       "title": "全球",
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/global.m3u8"
     },
@@ -19,12 +23,14 @@
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/国际.m3u8"
     },
     {
-      "title": "adult1",
-      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/adult1.m3u8"
+      "title": "18禁",
+      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/adult1.m3u8",
+      "isAllow": true
     },
     {
-      "title": "adult2",
+      "title": "18禁（2）",
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/adult2.m3u8"
+      "isForbid": false
     },
     {
       "title": "cutv",
@@ -49,10 +55,6 @@
     {
       "title": "radio",
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/radio.m3u8"
-    },
-    {
-      "title": "fanmingming",
-      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/fmm.m3u8"
     }
   ]
 }
