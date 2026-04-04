@@ -29,14 +29,16 @@
     {
       "title": "音乐之声",
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/radio.m3u8"
-    }
+    },
     {
       "title": "18禁",
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/adult1.m3u8",
+      "isAllow": true
     },
     {
       "title": "18禁（2）",
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/adult2.m3u8",
+      "isAllow": false
     },
     {
       "title": "cutv",
