@@ -4,7 +4,7 @@
   "items": [
     {
       "title": "全球",
-      "urlString": "https://gitee.com/ZXLMaster/config/blob/master/global.m3u8"
+      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/global.m3u8"
     },
     {
       "title": "Gather",
