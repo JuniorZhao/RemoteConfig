@@ -33,7 +33,7 @@
     {
       "title": "18禁",
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/adult1.m3u8",
-      "isAllow": true
+      "isAllow": false
     },
     {
       "title": "18禁（2）",
