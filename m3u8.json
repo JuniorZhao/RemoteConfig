@@ -3,6 +3,11 @@
   "updatedAt": "2026-04-04",
   "items": [
     {
+      "title": "精品推荐",
+      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/gntv.m3u8",
+      "isAllow": true
+    },
+    {
       "title": "电视大全",
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/output.m3u8",
       "isAllow": true
@@ -46,11 +51,6 @@
     {
       "title": "ipv4",
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/ipv4.m3u8",
-      "isAllow": true
-    },
-    {
-      "title": "gntv",
-      "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/gntv.m3u8",
       "isAllow": true
     },
     {
