@@ -16,14 +16,14 @@
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/global.m3u8"
     },
     {
-      "title": "网络直播",
+      "title": "ipv6",
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/ipv6.m3u8",
-      "isAllow": false
+      "isAllow": true
     },
     {
-      "title": "咪咕",
+      "title": "电视大全",
       "urlString": "https://raw.githubusercontent.com/JuniorZhao/RemoteConfig/refs/heads/main/migu.m3u8",
-      "isAllow": false
+      "isAllow": true
     },
     {
       "title": "国际",
