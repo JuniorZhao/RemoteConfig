@@ -6,9 +6,21 @@
       "title": "金牌影院",
       "webURL": "https://www.jiabaide.cn"
     },
-        {
+    {
       "title": "日美动漫",
       "webURL": "https://ani.girigirilove.com"
+    },
+    {
+      "title": "河马短剧",
+      "webURL": "https://www.kuaikaw.cn"
+    },
+    {
+      "title": "农民影视",
+      "webURL": "https://vip.wwgz.cn:5200"
+    },
+    {
+      "title": "动漫",
+      "webURL": "https://m.agedm.io"
     }
   ]
 }
